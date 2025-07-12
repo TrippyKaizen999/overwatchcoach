@@ -1,0 +1,17 @@
+# Ignore all model files and folders
+models/
+*.bin
+*.gguf
+*.ggml
+*.pt
+*.pth
+
+# Python + FastAPI typical ignores
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+.idea/
+.DS_Store
