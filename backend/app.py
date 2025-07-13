@@ -25,3 +25,4 @@ def coach(req: CoachRequest):
 def ping():
     return {"status": "ok"}
 
+
